@@ -1,0 +1,5 @@
+**/build
+**/dist
+**/pyromises.egg-info
+**/venv
+**/__pycache__
